@@ -2,7 +2,8 @@
 
 ## Link Deploy
 
-O link para ver o projeto eme execução: https://teste-raul-dario-cabrera-tapia--teste-frontend-v4.netlify.app/.
+O link para ver o projeto em execução:
+https://teste-raul-dario-cabrera-tapia--teste-frontend-v4.netlify.app/
 
 ## Sobre a realização do projeto e a documentação
 
