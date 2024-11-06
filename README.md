@@ -1,5 +1,9 @@
 # Projeto para o Teste Frontend V4
 
+## Link Deploy
+
+O link para ver o projeto eme execução: https://teste-raul-dario-cabrera-tapia--teste-frontend-v4.netlify.app/.
+
 ## Sobre a realização do projeto e a documentação
 
 Deixo aqui um agradecimento para a Aiko Digital por ter realizado este desafio. Agradeço pela oportunidade de conhecer mais da empresa e dos serviços prestados por meio do projeto apresentado. Quanto ao projeto em si, pensei em usar parte dos conhecimentos requeridos pela vaga, como **Vue 3**, **Typescript** e **integração com API**, além de não ter a intenção de deixar um código muito verboso e/ou extenso. Por isso utilizei o framework **Nuxt 3** como principal tecnologia para o projeto.
